@@ -9,7 +9,7 @@ __Goal of the Case Study:__
 Build a logistic regression model to assign a lead score between 0 and 100 to each of the leads which can be used by the company to target potential leads. A higher score would mean that the lead is hot, i.e. is most likely to convert whereas a lower score would mean that the lead is cold and will mostly not get converted.
 
 __Files included:-__
-1. A well-commented Jupyter notebook with at least the logistic regression model, the conversion predictions and evaluation metrics.
+1. A well-commented Jupyter notebook giving the logistic regression model, the conversion predictions and evaluation metrics.
 2. A document filled with solutions to all the problems.
-3. The overall approach of the analysis in a presentation.
-4. A brief summary explaining how you proceeded with the assignment and the learnings that you gathered.
+3. The overall approach we followed of the analysis in a presentation.
+4. A brief summary explaining how we proceeded with the assignment and the learnings that we gathered.
